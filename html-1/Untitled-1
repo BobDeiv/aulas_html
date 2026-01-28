@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8 ">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Eesse é o meu primeiro site!">
+    <meta name="keywords" content="programacao,html,css,javascript">
+    <meta name="author" content="Davi Cesar">
+    <title>Treino HTML</title>
+</head>
+<body>
+    <h1>Aula de HTML</h1>
+
+    <p>Nesta aula vamos aprender um pouco do HTML</p>
+
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo maiores dolorem cum, tempora tenetur repellat dolorum fugiat, non sapiente impedit corporis ratione neque, voluptatibus laboriosam iste commodi praesentium quia provident.</p>
+    
+    <h2>Oque São TAGS?</h2>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus molestiae ratione vitae consequuntur impedit non odit deserunt quod vel, aut enim recusandae vero molestias perferendis facere quis soluta ea eum!</p>
+   
+    <h3>Titulo</h3>
+    <h4>Titulo</h4>
+    <h5>Titulo</h5>
+    <h6>Titulo</h6>
+</body>
+</html>
