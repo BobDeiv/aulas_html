@@ -1,0 +1,22 @@
+body{
+    background: rgb(57, 117, 107);
+}
+p{
+    color:red;
+}
+    
+    .center{
+        text-align:center;
+    }
+    .vermelho{
+        color: red;
+    }
+    .fonte-30{
+        font-size: 30px;
+    }
+    
+    #teste{
+        color:blue;
+        background-color: yellow;
+    }
+
